@@ -1,6 +1,7 @@
 ## sayWhatever
 
-[nwHacks 2023](https://www.nwhacks.io/) project.
+sayWhatever is an [nwHacks 2023](https://www.nwhacks.io/) project.
+
 <!--
 
 **Here are some ideas to get you started:**

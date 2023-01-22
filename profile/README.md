@@ -1,7 +1,7 @@
 ## sayWhatever
 ___
 
-![chat](/.github/profile/chat.png)
+![chat](chat.png)
 
 sayWhatever is an [nwHacks 2023](https://www.nwhacks.io/) project. 
 SayWhatever is an innovative chat application that utilizes the latest technologies such as `Flask`, `WebSockets`, `React`, and `OpenAI` to provide users with a unique and seamless communication experience.

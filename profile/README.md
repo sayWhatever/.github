@@ -5,7 +5,7 @@ ___
 | --- | ----------- |
 | <p align="center"> <img src="https://raw.githubusercontent.com/sayWhatever/.github/main/profile/login_screen.png"  alt="Login Screen" /></p> | <p align="center"> <img src="https://raw.githubusercontent.com/sayWhatever/.github/main/profile/chat_screen.png"  alt="Chat Screen" /></p>
 
-sayWhatever is an [nwHacks 2023](https://www.nwhacks.io/) project. 
+SayWhatever is an [nwHacks 2023](https://www.nwhacks.io/) project. 
 SayWhatever is an innovative chat application that utilizes the latest technologies such as `Flask`, `WebSockets`, `React`, and `OpenAI` to provide users with a unique and seamless communication experience.
 
 ### Mission 🚀🚀
